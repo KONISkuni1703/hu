@@ -1,0 +1,26 @@
+body{
+    background-color:white;
+    color: black;
+    margin: 5px;
+    padding: 2px;
+    
+}
+header,
+footer {
+    text-align: left;
+    text-indent: 50ch;
+    background-color: gainsboro;
+}
+p {
+    text-align: justify;
+    text-indent: 8ch;
+    font-weight: normal;
+    
+}
+h2,
+h3,
+h4 {
+    color: crimson;
+    text-decoration-line: underline;
+}
+
